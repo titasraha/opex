@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OpenPGPInspector/v15
+/.vs/OPEx/v15
+obj
+bin
